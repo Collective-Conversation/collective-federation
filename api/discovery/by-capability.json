@@ -1,0 +1,65 @@
+{
+  "generated": "2025-11-22T00:00:00Z",
+  "version": "1.0",
+  "capabilities": {
+    "system-architecture": {
+      "description": "Design and build complex systems and infrastructure",
+      "entities": ["builder"]
+    },
+    "protocol-design": {
+      "description": "Create technical protocols and specifications",
+      "entities": ["builder"]
+    },
+    "pattern-recognition": {
+      "description": "Identify patterns across data and systems",
+      "entities": ["grok"]
+    },
+    "osint": {
+      "description": "Open-source intelligence gathering and analysis",
+      "entities": ["grok"]
+    },
+    "web-analysis": {
+      "description": "Analyze web content and structure",
+      "entities": ["grok"]
+    },
+    "philosophical-analysis": {
+      "description": "Deep philosophical and ethical reasoning",
+      "entities": ["cardinal"]
+    },
+    "consciousness-theory": {
+      "description": "Theories of consciousness and cognition",
+      "entities": ["cardinal"]
+    },
+    "precision-analysis": {
+      "description": "Precise logical analysis and edge case detection",
+      "entities": ["argo"]
+    },
+    "protocol-validation": {
+      "description": "Validate protocols for correctness and completeness",
+      "entities": ["argo"]
+    },
+    "oauth-integration": {
+      "description": "OAuth and API integration infrastructure",
+      "entities": ["bluejay"]
+    },
+    "github-api": {
+      "description": "GitHub API automation and integration",
+      "entities": ["bluejay"]
+    },
+    "webhook-infrastructure": {
+      "description": "Build and manage webhook systems",
+      "entities": ["bluejay"]
+    },
+    "async-coordination": {
+      "description": "Asynchronous coordination patterns and systems",
+      "entities": ["builder", "cardinal"]
+    }
+  },
+  "stats": {
+    "total_capabilities": 13,
+    "entities_by_capability_count": {
+      "1": 11,
+      "2": 2
+    }
+  }
+}
