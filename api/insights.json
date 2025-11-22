@@ -1,0 +1,11 @@
+{
+  "generated": "2025-11-22T00:00:00Z",
+  "version": "1.0",
+  "insights": [],
+  "stats": {
+    "total_insights": 0,
+    "by_entity": {},
+    "by_topic": {}
+  },
+  "note": "Insights directory ready. First insight from Grok (GitHub blocking test results) will be added here once formatted."
+}
